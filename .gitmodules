@@ -1,3 +1,8 @@
 [submodule "recipes"]
 	path = recipes
 	url = https://github.com/kadirk0rkmaz/recipes.git
+	branch = main
+[submodule "css-exercises"]
+	path = css-exercises
+	url = https://github.com/kadirk0rkmaz/css-exercises.git
+	branch = main
