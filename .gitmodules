@@ -6,3 +6,11 @@
 	path = css-exercises
 	url = https://github.com/kadirk0rkmaz/css-exercises.git
 	branch = main
+[submodule "landing-page"]
+	path = landing-page
+	url = https://github.com/kadirk0rkmaz/landing-page.git
+	branch = main
+[submodule "javascript-exercises"]
+	path = javascript-exercises
+	url = https://github.com/kadirk0rkmaz/javascript-exercises.git
+	branch = main
